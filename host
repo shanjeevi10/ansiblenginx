@@ -1,1 +1,2 @@
-192.168.56.104 ansible_user=shanjeevi
+192.168.56.104 ansible_user=shanjeevi ansible_ssh_private_key_file=/path/to/key
+
